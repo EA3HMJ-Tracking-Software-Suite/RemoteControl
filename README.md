@@ -24,6 +24,8 @@ The lower right button performs the following functions:
 
 The upper right button performs the following functions:
 
+• Double-click to switch from position or offset
+
 • Press and hold moves the selected movement axis
 
 • Release stops movement
