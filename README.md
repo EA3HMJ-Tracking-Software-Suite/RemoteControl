@@ -4,6 +4,9 @@ The DishController remote control unit is a standalone battery powered wireless 
 It is a convenient device to operate the system outdoors (i.e., at the antenna location) while monitoring the antenna movement.
 The remote wirelessly connects to the DishController mainboard and is powered by a rechargeable lithium-ion polymer (LiPo) battery.
 
+## New version
+v1.2 Update for ControllerDish 4.x
+
 ## WARNING
 Using the remote while a computer is operating connected to the DishController can potentially interfere with the normal functioning of the system. Therefore, it's advisable to avoid using the remote control when your computer is in use to command the DishController.
 
